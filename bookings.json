@@ -96,5 +96,33 @@
     "endTime": "22:00",
     "bay": 3,
     "url": "https://book.b9.golf/f?slug=rochester-hills-mi&bookings=1"
+  },
+  {
+    "date": "2026-07-17",
+    "startTime": "10:00",
+    "endTime": "12:00",
+    "bay": 1,
+    "url": "https://book.b9.golf/f?slug=rochester-hills-mi&bookings=1"
+  },
+  {
+    "date": "2026-07-17",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "bay": 1,
+    "url": "https://book.b9.golf/f?slug=rochester-hills-mi&bookings=1"
+  },
+  {
+    "date": "2026-07-17",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "bay": 2,
+    "url": "https://book.b9.golf/f?slug=rochester-hills-mi&bookings=1"
+  },
+  {
+    "date": "2026-07-17",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "bay": 3,
+    "url": "https://book.b9.golf/f?slug=rochester-hills-mi&bookings=1"
   }
 ]
