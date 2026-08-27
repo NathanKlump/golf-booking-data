@@ -266,6 +266,13 @@
     "url": "https://book.b9.golf/f?slug=rochester-hills-mi&bookings=1"
   },
   {
+    "date": "2026-08-04",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "bay": 3,
+    "url": "https://book.b9.golf/f?slug=rochester-hills-mi&bookings=1"
+  },
+  {
     "date": "2026-08-05",
     "startTime": "13:00",
     "endTime": "14:00",
